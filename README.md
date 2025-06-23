@@ -35,3 +35,6 @@ Slicer (for Regional filtering)
 
 📁 Dataset Source
 The data used for this project was collected from Kaggle - Retail Sales Dataset. It contains detailed transaction-level data including order date, product details, customer segments, regional info, and financial metrics.
+
+Screenshots/Demos
+preview of dashboard - https://github.com/prxnjal/Mega-Mart-Sales-Dashboard/blob/main/MegaMartDashboard.png
